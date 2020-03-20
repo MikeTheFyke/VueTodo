@@ -17,6 +17,8 @@ or
 4. Vue component entry point 'src/main.js'
 - main app component is 'src/app.vue'
 
+5. Create Todos vue file.
+
 Reference Websites:
 
 http://vuejs.org/v2/guide
