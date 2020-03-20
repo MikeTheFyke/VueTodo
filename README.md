@@ -1,4 +1,4 @@
-My First Vue Repository
+My First Vue Repository - A single page application framework (SPA).
 
 1. Install Vue Cli
 'npm install -g @vue/cli'
