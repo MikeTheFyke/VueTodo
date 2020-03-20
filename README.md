@@ -12,6 +12,9 @@ or
 - UI ( 'vue ui' ). Runs on localhost:8000/project/select
 
 
+3. Main html file that serves Vue app is located in 'public/index.html'
+4. Vue component entry point 'src/main.js'
+
 Reference Websites
 
 http://vuejs.org/v2/guide
