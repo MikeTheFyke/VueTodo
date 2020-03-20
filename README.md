@@ -14,6 +14,7 @@ or
 
 3. Main html file that serves Vue app is located in 'public/index.html'
 4. Vue component entry point 'src/main.js'
+- main app component is 'src/app.vue'
 
 Reference Websites
 
