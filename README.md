@@ -4,10 +4,10 @@ My First Vue Repository
 'npm install -g @vue/cli'
 
 2. Create Vue App with 1 of 2 options 
-- cli ( 'create vue appname' ). 
+- cli ( 'create vue todo' ). 
 - default babel/eslint install.
 - Run with 'npm run serve'. 
-- Runs on localhost:8080
+- Runs server on localhost:8080, from todo folder.
 or 
 - UI ( 'vue ui' ). Runs on localhost:8000/project/select
 
