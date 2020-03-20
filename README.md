@@ -1,5 +1,9 @@
 My First Vue Repository
 
+1. Install Vue Cli
+npm install -g @vue/cli
+
+
 
 Reference Websites
 
