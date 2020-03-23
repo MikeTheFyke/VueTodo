@@ -26,3 +26,5 @@ http://vuejs.org/v2/guide
 
 http://cli.vuejs.org/guide/
 - Startup Guide
+
+Progress 23:42
